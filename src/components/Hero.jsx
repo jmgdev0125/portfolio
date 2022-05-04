@@ -18,6 +18,7 @@ function Hero() {
             <div className='hero-text'>
                 <h1>JOHN MICHAEL GADOT</h1>
                 <p>Web Developer / Designer</p>
+                <button className='hero-btn'>Contact <i class="far fa-paper-plane"></i></button>
             </div>
         </div>
     </>
